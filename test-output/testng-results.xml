@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-09T01:52:00Z" name="Default suite" finished-at="2019-05-09T01:52:59Z" duration-ms="59066">
+    <groups>
+    </groups>
+    <test started-at="2019-05-09T01:52:00Z" name="Default test" finished-at="2019-05-09T01:52:59Z" duration-ms="59066">
+      <class name="com.qa.webdriver.WMTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.webdriver.WMTest@1e66f1f5]" started-at="2019-05-09T01:52:00Z" name="setUp" finished-at="2019-05-09T01:52:37Z" duration-ms="37202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="freecrmtitletest()[pri:0, instance:com.qa.webdriver.WMTest@1e66f1f5]" started-at="2019-05-09T01:52:37Z" name="freecrmtitletest" finished-at="2019-05-09T01:52:48Z" duration-ms="10673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freecrmtitletest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.webdriver.WMTest@1e66f1f5]" started-at="2019-05-09T01:52:48Z" name="tearDown" finished-at="2019-05-09T01:52:59Z" duration-ms="10970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.webdriver.WMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
